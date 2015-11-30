@@ -1,0 +1,13 @@
+# Intelij IDEA files
+.idea/
+*.iml
+
+#Maven files
+target/
+
+# Java files
+*.rar
+*.class
+*.war
+*.ear
+*.jar
